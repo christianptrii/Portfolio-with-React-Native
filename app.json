@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Portofolio",
+    "displayName": "Portofolio",
+    "slug": "Portofolio",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.portofolio"
+    },
+    "developmentClient": {
+      "silentLaunch": true
+    }
+  }
+}
